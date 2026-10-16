@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-88-dev-watch-api",
+    "fix/issue-88-add-a-dev-watch-script-for-the-api-server-and",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-88-dev-watch-api": "main",
+    "fix/issue-88-add-a-dev-watch-script-for-the-api-server-and": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-88-dev-watch-api",
+    "fix/issue-88-add-a-dev-watch-script-for-the-api-server-and",
+    "origin"
+  ]
+}
